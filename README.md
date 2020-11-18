@@ -12,9 +12,9 @@ A deployed solution for the above is given in the “Intermediate Results sectio
 These enhance the input to the model for making enhanced predictions. The main focus is to maximize ROI(region of interest), that algorithms like UNet, EfficientNet, FPN, Mask RCNN etc do efficiently and produce satisfactory results.
 
 ## Results - Version-1:
-Image Segmentation using K-Means Clustering
-  Deployed Website (version-1) : http://imgsegkmeans.herokuapp.com/
-  Steps to play around with the application :
+Image Segmentation using K-Means Clustering <br>
+  Deployed Website (version-1) : http://imgsegkmeans.herokuapp.com/ <br>
+    Steps to play around with the application : <br>
   - In the main page, upload the input picture
-  - In the sidebar on the left, you can alter the hyperparameter "K" to observe         different results.
-  - Each time the value of k is altered, the screen refreshes itself to load the         updated results.
+  - In the sidebar on the left, you can alter the hyperparameter "K" to observe different results.
+  - Each time the value of k is altered, the screen refreshes itself to load the updated results.
