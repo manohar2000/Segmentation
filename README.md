@@ -26,5 +26,10 @@ These enhance the input to the model for making enhanced predictions. The main f
 deeplabv3+ model trained on pascal voc dataset for Semantic Image Segmentation using PixelLib <br>
 
   repo link : https://github.com/vineethm1627/semantic_segmentation
+  
+## Results - Version-3:
+<b>Instance Image Segmentation</b> <br>
+Mask R-CNN model trained on coco dataset for Instance Segmentation using PixelLib
 
+  repo link : https://github.com/vineethm1627/instance_segmentation
 
