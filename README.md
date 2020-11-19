@@ -12,10 +12,19 @@ A deployed solution for the above is given in the “Intermediate Results sectio
 These enhance the input to the model for making enhanced predictions. The main focus is to maximize ROI(region of interest), that algorithms like UNet, EfficientNet, FPN, Mask RCNN etc do efficiently and produce satisfactory results.
 
 ## Results - Version-1:
-Image Segmentation using K-Means Clustering <br>
+<b>Image Segmentation using K-Means Clustering </b> <br>
+
   repo link : https://github.com/vineethm1627/kmeans_segmentation <br>
   Deployed Website (version-1) : http://imgsegkmeans.herokuapp.com/ <br>
     Steps to play around with the application : <br>
   - In the main page, upload the input picture
   - In the sidebar on the left, you can alter the hyperparameter "K" to observe different results.
   - Each time the value of k is altered, the screen refreshes itself to load the updated results.
+  
+## Results - Version-2:
+<b>Semantic Image Segmentation</b> <br>
+deeplabv3+ model trained on pascal voc dataset for Semantic Image Segmentation using PixelLib <br>
+
+  repo link : https://github.com/vineethm1627/semantic_segmentation
+
+
